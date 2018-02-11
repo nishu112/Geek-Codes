@@ -1,0 +1,75 @@
+Edit Distance
+
+Longest Span with same Sum in two Binary arrays
+
+Longest Palindrome in a String
+
+Relative Sorting
+
+Remove minimum elements
+
+Largest square formed in a matrix
+
+Design a tiny URL or URL shortener
+
+M-Coloring Problem
+
+Handshakes
+
+Preorder Traversal and BST
+
+Nodes at even distance
+
+Minimize the heights
+
+Longest Common Substring
+
+Check Mirror in N-ary tree
+
+Kth largest element in a stream
+
+Huffman Encoding
+
+Page Faults in LRU
+
+Given a linked list
+
+ reverse alternate nodes and append at the end
+
+Add all greater values to every node in a BST
+
+Connect Nodes at Same Level
+
+Flattening a Linked List
+
+Min distance between two given nodes of a Binary Tree
+
+Maximum difference between node and its ancestor
+
+Topological sort
+
+Make Binary Tree
+
+Generate IP Addresses
+
+Extreme nodes in alternate order
+
+Number of root to leaf paths
+
+Merge two BST 's
+
+Merge k Sorted Arrays
+
+k-th smallest element in BST
+
+Inorder Successor in BST
+
+Merge Sort on Doubly Linked List
+
+Binary Tree to CDLL
+
+Maximum path sum from any node
+
+Median of BST
+
+Construct Tree from Preorder Traversal

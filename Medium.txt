@@ -1,0 +1,133 @@
+ Complement
+
+ Overlapping Intervals
+
+ Longest Common Subsequence
+
+ Minimum number of jumps
+
+ Count ways to reach the n’th stair
+
+ Count ways to N'th Stair(Order does not matter) 
+
+ Consecutive 1's not allowed
+
+ Longest Even Length Substring
+
+ Path in Matrix
+
+ Trapping Rain Water
+
+ String formation from substring
+
+ Count Numbers in Range
+
+ Case-specific Sorting of Strings
+
+ Rank of Matrix
+
+ Maximize The Array
+
+ Minimum Platforms
+
+ Number following a pattern
+
+ Longest Palindrome in a String
+
+ Modular Exponentiation for large numbers
+
+ Concatenation of Zig-Zag String in ‘n’ Rows
+
+ Sum of Query I
+
+ Relative Sorting
+
+ Black and White
+
+ Largest square formed in a matrix
+
+ Count Integral Points
+
+ Design a tiny URL or URL shortener
+
+ Nuts and Bolts Problem
+
+ Dyck Path
+
+ Minimum Cost of ropes
+
+ Sum of Query II
+
+ Form a palindrome
+
+ Preorder to Postorder
+
+ Maximum length Bitonic Subarray
+
+ Length of the longest substring
+
+ Longest consecutive subsequence
+
+ Largest subsquare surrounded by ‘X’
+
+ Minimum steps to get desired array
+
+ Subsequence matching
+
+ Dimensions of Rectangle
+
+ Tic-Tac-Toe
+
+ Number to words
+
+ Betting game
+
+ Preorder Traversal and BST
+
+ Card Rotation
+
+ Search Pattern
+
+ Bleak Numbers
+
+ Product of Primes
+
+ Largest number in K swaps
+
+ Special Matrix
+
+ Given a linked list
+
+ reverse alternate nodes and append at the end
+
+ Reverse a Linked List in groups of given size.
+
+ Delete nodes having greater value on right
+
+ Count BST nodes that lie in a given range
+
+ Check for BST
+
+ Bottom View of Binary Tree
+
+ Intersection Point in Y Shapped Linked Lists
+
+ Add all greater values to every node in a BST
+
+ Construct Binary Tree from Parent Array
+
+ Connect Nodes at Same Level
+
+ Clone a linked list with next and random pointer 
+
+ Flattening a Linked List
+
+ Diagonal Traversal of Binary Tree
+
+ Delete a node from BST
+
+ Min distance between two given nodes of a Binary Tree
+
+ Maximum difference between node and its ancestor
+
+ Range Minimum Query

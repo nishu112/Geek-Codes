@@ -1,0 +1,10 @@
+<html>
+</head>
+<title> Show Time</title>
+<body>
+<h> Hi </h>
+<script >
+alert("hello");
+</script>
+</body>
+</html>

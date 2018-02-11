@@ -1,0 +1,104 @@
+Coin Change
+Kadane's Algorithm
+Find Missing And Repeating
+Complement
+Number of Unique Paths
+Excel Sheet | Part - 1
+Print Diagonally
+Wave Array
+Equal Sum
+Binary String
+Next Permutation
+Longest Increasing Subsequence
+Longest Common Subsequence
+Minimum number of jumps
+Count ways to reach the n’th stair
+Count ways to N'th Stair(Order does not matter)
+Egg Dropping Puzzle
+Edit Distance
+Magic Triplets
+nCr
+Maximum Rectangular Area in a Histogram
+Longest Span with same Sum in two Binary arrays
+Consecutive 1's not allowed
+Count of Subarrays
+Longest Even Length Substring
+Path in Matrix
+Trapping Rain Water
+String formation from substring
+Count Numbers in Range
+Case-specific Sorting of Strings
+Sum of bit differences
+Factorials of large numbers
+Minimum Platforms
+Longest Palindrome in a String
+Relative Sorting
+Remove minimum elements
+Largest square formed in a matrix
+Design a tiny URL or URL shortener
+Rotate a 2D array without using extra space
+Smallest number on left
+Convert an array to reduced form
+M-Coloring Problem
+Minimum steps to get desired array
+Handshakes
+Betting game
+Is Binary Number Multiple of 3
+Preorder Traversal and BST
+Triplet Sum in Array
+Nodes at even distance
+Minimize the heights
+Combination Sum - Part 2
+K’th smallest element
+Longest Common Substring
+Minimums in Array
+Trie | (Insert and Search)
+Check Mirror in N-ary tree
+Rearrange characters
+Express as sum of power of natural numbers
+First non-repeating character in a stream
+Count subsequences of type a^i b^j c^k
+Kth largest element in a stream
+Floyd Warshall
+Huffman Encoding
+Nearly Sorted Algorithm
+Array Pair Sum Divisibility Problem
+Cows of FooLand
+Page Faults in LRU
+Given a linked list
+ reverse alternate nodes and append at the end
+Reverse a Linked List in groups of given size.
+Count BST nodes that lie in a given range
+Check for BST
+Bottom View of Binary Tree
+Add all greater values to every node in a BST
+Construct Binary Tree from Parent Array
+Connect Nodes at Same Level
+Flattening a Linked List
+Diagonal Traversal of Binary Tree
+Delete a node from BST
+Detect cycle in an undirected graph
+Min distance between two given nodes of a Binary Tree
+Maximum difference between node and its ancestor
+Topological sort
+Make Binary Tree
+Generate IP Addresses
+Extreme nodes in alternate order
+Kth element in Matrix
+Clone a Binary Tree
+Remove loop in Linked List
+Rat in a Maze Problem
+Number of root to leaf paths
+Delete keys in a Linked list
+Merge two BST 's
+Merge k Sorted Arrays
+Top View of Binary Tree
+k-th smallest element in BST
+Inorder Successor in BST
+Merge Sort on Doubly Linked List
+Binary Tree to CDLL
+Foldable Binary Tree
+Node at distance
+Maximum path sum from any node
+Median of BST
+Construct Tree from Preorder Traversal

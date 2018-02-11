@@ -1,0 +1,84 @@
+Coin Change
+Kadane's Algorithm
+Find Missing And Repeating
+Complement
+Sum Of Prime
+Number of Unique Paths
+Rank The Permutations
+Excel Sheet | Part - 1
+Maximum Sub Array
+Print Diagonally
+Wave Array
+Overlapping Intervals
+Equal Sum
+Binary String
+Next Permutation
+Longest Increasing Subsequence
+Longest Common Subsequence
+Minimum number of jumps
+Count ways to reach the n’th stair
+Count ways to N'th Stair(Order does not matter)
+Egg Dropping Puzzle
+Magic Triplets
+nCr
+Maximum Rectangular Area in a Histogram
+Consecutive 1's not allowed
+Count of Subarrays
+Longest Even Length Substring
+Path in Matrix
+Trapping Rain Water
+String formation from substring
+Count Numbers in Range
+Case-specific Sorting of Strings
+Rank of Matrix
+Sum of bit differences
+Maximize The Array
+Factorials of large numbers
+Minimum Platforms
+Modular Exponentiation for large numbers
+Rotate a 2D array without using extra space
+Power of Largest Prime
+Smallest number on left
+Convert an array to reduced form
+Minimum steps to get desired array
+Betting game
+Is Binary Number Multiple of 3
+Triplet Sum in Array
+Combination Sum - Part 2
+K’th smallest element
+Prime Factors and their Powers
+Largest Divisibility Test
+Minimums in Array
+Trie | (Insert and Search)
+Is Sudoku Valid
+Largest prime factor
+Rearrange characters
+Express as sum of power of natural numbers
+First non-repeating character in a stream
+Kth Smallest Factor
+Count subsequences of type a^i b^j c^k
+Floyd Warshall
+Nearly Sorted Algorithm
+Maximum Intervals Overlap
+Array Pair Sum Divisibility Problem
+Cows of FooLand
+Reverse a Linked List in groups of given size.
+Delete nodes having greater value on right
+Count BST nodes that lie in a given range
+Check for BST
+Bottom View of Binary Tree
+Intersection Point in Y Shapped Linked Lists
+Construct Binary Tree from Parent Array
+Diagonal Traversal of Binary Tree
+Delete a node from BST
+Detect cycle in an undirected graph
+Range Minimum Query
+Kth element in Matrix
+Clone a Binary Tree
+Remove loop in Linked List
+Rat in a Maze Problem
+Delete keys in a Linked list
+Top View of Binary Tree
+Foldable Binary Tree
+Node at distance
+Maximum path sum from any node
